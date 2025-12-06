@@ -135,9 +135,10 @@ const config = {
             'https://github.com/your-github-username/humanoid_robotic/tree/main/',
         },
         blog: false,
-       theme: {
+      theme: {
   customCss: require.resolve('./src/css/custom.css'),
 },
+
 
       }),
     ],
