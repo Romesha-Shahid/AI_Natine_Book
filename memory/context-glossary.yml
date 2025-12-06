@@ -1,0 +1,22 @@
+# Key terms and definitions for the Physical AI & Humanoid Robotics book.
+
+- **Humanoid Robot**: A robot with its overall shape based on that of the human body.
+- **Physical AI**: Artificial intelligence designed to operate and interact within physical environments, often embodied in robots.
+- **ROS 2 (Robot Operating System 2)**: An open-source middleware suite for robot application development.
+- **Digital Twin**: A virtual model of a physical process, product, or service.
+- **Gazebo**: A 3D robotics simulator that accurately simulates rigid body dynamics.
+- **Unity**: A cross-platform game engine often used for high-fidelity rendering in robotics simulations.
+- **NVIDIA Isaac Sim**: A scalable robotics simulation application and synthetic data generation tool built on NVIDIA Omniverse.
+- **SLAM (Simultaneous Localization and Mapping)**: A computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it.
+- **VLA (Vision-Language-Action) Pipelines**: AI systems that integrate visual perception, natural language understanding, and robotic action generation.
+- **LLM (Large Language Model)**: A type of artificial intelligence program that can recognize and generate text, translate languages, and perform other language-related tasks.
+- **Whisper**: An automatic speech recognition (ASR) system developed by OpenAI.
+- **Sim-to-Real Transfer**: The process of training a robot policy in a simulated environment and deploying it effectively in the real world.
+- **Domain Randomization**: A technique used to bridge the sim-to-real gap by training models in simulations with randomized parameters to improve their robustness to real-world variations.
+- **Kinematics**: The study of motion of points, bodies (objects), and systems of bodies without considering the causes of their motion.
+- **Inverse Kinematics**: The mathematical process of calculating the variable joint parameters of a robot arm to achieve a desired position of the end-effector.
+- **Embodied AI**: AI systems that exist in physical bodies, typically robots, and interact with the real world.
+- **Jetson**: NVIDIA's platform for AI at the edge, featuring small, power-efficient modules with GPUs.
+- **RTX Workstation**: A high-performance computer equipped with NVIDIA RTX GPUs, optimized for graphics and AI workloads.
+- **GitHub Pages**: A free web hosting service offered by GitHub for hosting static websites directly from a GitHub repository.
+- **Docusaurus**: A static site generator for building documentation websites.

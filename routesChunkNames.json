@@ -1,0 +1,120 @@
+{
+  "/humanoid_robotic/__docusaurus/debug-b85": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/__docusaurus/debug/config-2d5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/__docusaurus/debug/content-f2d": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    },
+    "__props": "__props---humanoid-robotic-docusaurus-debug-content-932-1e0"
+  },
+  "/humanoid_robotic/__docusaurus/debug/globalData-eba": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/__docusaurus/debug/metadata-82e": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/__docusaurus/debug/registry-bbd": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/__docusaurus/debug/routes-f58": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docusaurus-debugb-38-e79"
+    }
+  },
+  "/humanoid_robotic/markdown-page-069": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-markdown-pagea-74-96a"
+    },
+    "content": "content---humanoid-robotic-markdown-page-393-cd2"
+  },
+  "/humanoid_robotic/docs-2c6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-docsaba-3ae"
+    }
+  },
+  "/humanoid_robotic/docs-cfe": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---humanoid-robotic-docs-2-df-c0a"
+  },
+  "/humanoid_robotic/docs-176": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/humanoid_robotic/docs/capstone-c12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-capstoneb-0-a-a1a"
+  },
+  "/humanoid_robotic/docs/conversational-ai-3e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-conversational-aia-02-530"
+  },
+  "/humanoid_robotic/docs/gazebo-unity-393": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-gazebo-unityfce-705"
+  },
+  "/humanoid_robotic/docs/glossary-361": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-glossarye-74-05a"
+  },
+  "/humanoid_robotic/docs/hardware-architecture-ed0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-hardware-architectureaa-8-6c2"
+  },
+  "/humanoid_robotic/docs/humanoid-systems-a0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-humanoid-systems-6-fc-cba"
+  },
+  "/humanoid_robotic/docs/intro-549": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-intro-367-ccb"
+  },
+  "/humanoid_robotic/docs/isaac-c5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-isaac-181-63c"
+  },
+  "/humanoid_robotic/docs/physical-ai-2fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-physical-ai-998-026"
+  },
+  "/humanoid_robotic/docs/references-6fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-references-33-a-428"
+  },
+  "/humanoid_robotic/docs/ros2-b05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-ros-25-d-2-034"
+  },
+  "/humanoid_robotic/docs/vla-210": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotic-docs-vla-492-8bc"
+  },
+  "/humanoid_robotic/-e62": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---humanoid-robotic-markdown-pagea-74-96a"
+    },
+    "config": "config---humanoid-robotic-5-e-9-f70"
+  }
+}

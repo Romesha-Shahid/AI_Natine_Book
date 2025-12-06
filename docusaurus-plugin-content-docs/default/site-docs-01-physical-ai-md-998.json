@@ -1,0 +1,25 @@
+{
+  "id": "physical-ai",
+  "title": "Foundations of Physical AI",
+  "description": "Physical AI represents the cutting edge of artificial intelligence, where intelligent algorithms are embodied in physical agents—robots—that interact directly with the real world. Unlike purely digital AI, which operates within simulated or abstract environments, Physical AI confronts the complexities, uncertainties, and challenges of physics, material properties, and dynamic interactions inherent in our physical universe. This chapter lays the groundwork for understanding this exciting domain, exploring its core concepts and the unique demands it places on AI systems.",
+  "source": "@site/docs/01-physical-ai.md",
+  "sourceDirName": ".",
+  "slug": "/physical-ai",
+  "permalink": "/humanoid_robotic/docs/physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/01-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/humanoid_robotic/docs/intro"
+  },
+  "next": {
+    "title": "ROS 2: The Robotic Nervous System",
+    "permalink": "/humanoid_robotic/docs/ros2"
+  }
+}

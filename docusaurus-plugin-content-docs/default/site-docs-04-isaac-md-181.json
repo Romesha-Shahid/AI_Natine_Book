@@ -1,0 +1,25 @@
+{
+  "id": "isaac",
+  "title": "NVIDIA Isaac: The AI-Robot Brain",
+  "description": "NVIDIA Isaac is a comprehensive platform for the development, simulation, and deployment of AI-powered robotics. It bridges the gap between digital AI and physical robots, offering specialized tools for high-fidelity simulation (Isaac Sim), perception (Isaac ROS), and robot control. For humanoid robotics, Isaac acts as a powerful \"AI-Robot Brain,\" enabling capabilities like advanced perception, simultaneous localization and mapping (SLAM), and robust sim-to-real transfer.",
+  "source": "@site/docs/04-isaac.md",
+  "sourceDirName": ".",
+  "slug": "/isaac",
+  "permalink": "/humanoid_robotic/docs/isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/04-isaac.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Gazebo + Unity: Digital Twin Pipelines",
+    "permalink": "/humanoid_robotic/docs/gazebo-unity"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) Pipelines",
+    "permalink": "/humanoid_robotic/docs/vla"
+  }
+}

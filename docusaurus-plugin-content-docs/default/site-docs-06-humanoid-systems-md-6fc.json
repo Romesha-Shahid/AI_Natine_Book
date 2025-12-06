@@ -1,0 +1,25 @@
+{
+  "id": "humanoid-systems",
+  "title": "Humanoid Robotics: Kinematics, Balance, Manipulation",
+  "description": "Humanoid robots present a unique set of challenges and opportunities in the field of Physical AI. Their human-like form, while offering the potential to operate in environments designed for humans, demands sophisticated control over their many degrees of freedom, intricate balance mechanisms, and dexterous manipulation capabilities. This chapter delves into the fundamental principles governing these aspects of humanoid robotics.",
+  "source": "@site/docs/06-humanoid-systems.md",
+  "sourceDirName": ".",
+  "slug": "/humanoid-systems",
+  "permalink": "/humanoid_robotic/docs/humanoid-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/06-humanoid-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Vision-Language-Action (VLA) Pipelines",
+    "permalink": "/humanoid_robotic/docs/vla"
+  },
+  "next": {
+    "title": "Conversational Robotics: LLMs, Whisper, Multimodal",
+    "permalink": "/humanoid_robotic/docs/conversational-ai"
+  }
+}

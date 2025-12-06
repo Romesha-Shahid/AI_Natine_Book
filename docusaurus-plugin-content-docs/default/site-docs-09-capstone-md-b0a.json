@@ -1,0 +1,25 @@
+{
+  "id": "capstone",
+  "title": "Capstone: Autonomous Humanoid Pipeline",
+  "description": "Throughout this book, we have explored the foundational components required to build intelligent humanoid robots. We began with the robotic nervous system provided by ROS 2, moved through the digital twin concept with Gazebo and Unity, delved into the AI-robot brain powered by NVIDIA Isaac for perception and simulation, and finally examined Vision-Language-Action (VLA) pipelines for natural interaction. This capstone chapter synthesizes these concepts, presenting a high-level overview of a complete autonomous humanoid pipeline, demonstrating how these diverse technologies coalesce to create truly intelligent physical AI.",
+  "source": "@site/docs/09-capstone.md",
+  "sourceDirName": ".",
+  "slug": "/capstone",
+  "permalink": "/humanoid_robotic/docs/capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/09-capstone.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Hardware Architecture: RTX Workstations + Jetson Kits",
+    "permalink": "/humanoid_robotic/docs/hardware-architecture"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/humanoid_robotic/docs/glossary"
+  }
+}

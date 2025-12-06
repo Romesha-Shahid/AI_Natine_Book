@@ -1,0 +1,24 @@
+- slug: 00-intro
+  title: Introduction
+- slug: 01-physical-ai
+  title: Foundations of Physical AI
+- slug: 02-ros2
+  title: 'ROS 2: Robotic Nervous System'
+- slug: 03-gazebo-unity
+  title: Gazebo + Unity Digital Twin Pipelines
+- slug: 04-isaac
+  title: 'NVIDIA Isaac: Perception, SLAM, Simulation'
+- slug: 05-vla
+  title: Vision-Language-Action (VLA)
+- slug: 06-humanoid-systems
+  title: 'Humanoid Robotics: Kinematics, Balance, Manipulation'
+- slug: 07-conversational-ai
+  title: 'Conversational Robotics: LLMs, Whisper, Multimodal'
+- slug: 08-hardware-architecture
+  title: 'Hardware Architecture: RTX Workstations + Jetson Kits'
+- slug: 09-capstone
+  title: 'Capstone: Autonomous Humanoid Pipeline'
+- slug: glossary
+  title: Glossary
+- slug: references
+  title: References

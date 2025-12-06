@@ -1,0 +1,25 @@
+{
+  "id": "conversational-ai",
+  "title": "Conversational Robotics: LLMs, Whisper, Multimodal",
+  "description": "The ability to engage in natural language conversations is a hallmark of human intelligence. For humanoid robots, integrating advanced conversational AI—powered by Large Language Models (LLMs), speech recognition (like Whisper), and multimodal understanding—is crucial for intuitive human-robot interaction (HRI). This chapter explores how these technologies are converging to create robots that can not only understand commands but also engage in meaningful dialogues, interpret context, and respond appropriately in the physical world.",
+  "source": "@site/docs/07-conversational-ai.md",
+  "sourceDirName": ".",
+  "slug": "/conversational-ai",
+  "permalink": "/humanoid_robotic/docs/conversational-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/07-conversational-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Humanoid Robotics: Kinematics, Balance, Manipulation",
+    "permalink": "/humanoid_robotic/docs/humanoid-systems"
+  },
+  "next": {
+    "title": "Hardware Architecture: RTX Workstations + Jetson Kits",
+    "permalink": "/humanoid_robotic/docs/hardware-architecture"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "references",
+  "title": "References",
+  "description": "This section lists all academic and technical sources cited throughout the book, formatted according to APA 7th edition guidelines.",
+  "source": "@site/docs/references.md",
+  "sourceDirName": ".",
+  "slug": "/references",
+  "permalink": "/humanoid_robotic/docs/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "references",
+    "title": "References"
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/humanoid_robotic/docs/glossary"
+  }
+}

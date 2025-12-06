@@ -1,0 +1,27 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "This section provides definitions for key technical terms used throughout the book.",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/humanoid_robotic/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary"
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid Pipeline",
+    "permalink": "/humanoid_robotic/docs/capstone"
+  },
+  "next": {
+    "title": "References",
+    "permalink": "/humanoid_robotic/docs/references"
+  }
+}

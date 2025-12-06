@@ -1,0 +1,61 @@
+# Placeholder Research Sources for Physical AI & Humanoid Robotics Book
+
+- [placeholder_source_1]
+  type: "Journal Article"
+  apa_citation: "Author, A. A. (Year). Title of article. *Title of Periodical, volume*(issue), pages. DOI"
+
+- [placeholder_source_2]
+  type: "Conference Paper"
+  apa_citation: "Author, A. A. (Year, Month Day). *Title of conference paper* [Paper presentation]. Name of Conference, Location. URL"
+
+- [placeholder_source_3]
+  type: "Book"
+  apa_citation: "Author, A. A. (Year). *Title of work*. Publisher."
+
+- [placeholder_source_4]
+  type: "Technical Documentation"
+  apa_citation: "Author, A. A. (Year). *Title of document*. Publisher. URL"
+
+- [placeholder_source_5]
+  type: "Journal Article"
+  apa_citation: "Author, B. B. (Year). Title of article. *Title of Periodical, volume*(issue), pages. DOI"
+
+- [placeholder_source_6]
+  type: "Conference Paper"
+  apa_citation: "Author, B. B. (Year, Month Day). *Title of conference paper* [Paper presentation]. Name of Conference, Location. URL"
+
+- [placeholder_source_7]
+  type: "Book"
+  apa_citation: "Author, B. B. (Year). *Title of work*. Publisher."
+
+- [placeholder_source_8]
+  type: "Technical Documentation"
+  apa_citation: "Author, B. B. (Year). *Title of document*. Publisher. URL"
+
+- [placeholder_source_9]
+  type: "Journal Article"
+  apa_citation: "Author, C. C. (Year). Title of article. *Title of Periodical, volume*(issue), pages. DOI"
+
+- [placeholder_source_10]
+  type: "Conference Paper"
+  apa_citation: "Author, C. C. (Year, Month Day). *Title of conference paper* [Paper presentation]. Name of Conference, Location. URL"
+
+- [placeholder_source_11]
+  type: "Book"
+  apa_citation: "Author, C. C. (Year). *Title of work*. Publisher."
+
+- [placeholder_source_12]
+  type: "Technical Documentation"
+  apa_citation: "Author, C. C. (Year). *Title of document*. Publisher. URL"
+
+- [placeholder_source_13]
+  type: "Journal Article"
+  apa_citation: "Author, D. D. (Year). Title of article. *Title of Periodical, volume*(issue), pages. DOI"
+
+- [placeholder_source_14]
+  type: "Conference Paper"
+  apa_citation: "Author, D. D. (Year, Month Day). *Title of conference paper* [Paper presentation]. Name of Conference, Location. URL"
+
+- [placeholder_source_15]
+  type: "Book"
+  apa_citation: "Author, D. D. (Year). *Title of work*. Publisher."

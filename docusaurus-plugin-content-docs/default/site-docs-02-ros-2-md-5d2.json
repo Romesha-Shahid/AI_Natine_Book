@@ -1,0 +1,25 @@
+{
+  "id": "ros2",
+  "title": "ROS 2: The Robotic Nervous System",
+  "description": "The Robot Operating System (ROS) has become the de facto standard for robotics software development. ROS 2, its successor, offers significant improvements in areas critical for modern robotics, especially for humanoid platforms and Physical AI: real-time capabilities, security, and support for distributed systems. This chapter introduces the core concepts of ROS 2 and explains how it acts as the \"nervous system\" that orchestrates the complex interactions within a humanoid robot's software stack.",
+  "source": "@site/docs/02-ros2.md",
+  "sourceDirName": ".",
+  "slug": "/ros2",
+  "permalink": "/humanoid_robotic/docs/ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/02-ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Foundations of Physical AI",
+    "permalink": "/humanoid_robotic/docs/physical-ai"
+  },
+  "next": {
+    "title": "Gazebo + Unity: Digital Twin Pipelines",
+    "permalink": "/humanoid_robotic/docs/gazebo-unity"
+  }
+}

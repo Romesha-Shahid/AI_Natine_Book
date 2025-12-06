@@ -1,0 +1,25 @@
+{
+  "id": "vla",
+  "title": "Vision-Language-Action (VLA) Pipelines",
+  "description": "The ultimate goal of embodied AI is to create robots that can understand and respond to human intentions in a natural, intuitive way. This requires a seamless convergence of perception (vision), communication (language), and physical interaction (action). Vision-Language-Action (VLA) pipelines represent a cutting-edge approach to achieving this, leveraging recent advancements in large language models (LLMs) and multimodal AI to enable robots to interpret high-level commands, perceive complex environments, and execute sophisticated tasks.",
+  "source": "@site/docs/05-vla.md",
+  "sourceDirName": ".",
+  "slug": "/vla",
+  "permalink": "/humanoid_robotic/docs/vla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/05-vla.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac: The AI-Robot Brain",
+    "permalink": "/humanoid_robotic/docs/isaac"
+  },
+  "next": {
+    "title": "Humanoid Robotics: Kinematics, Balance, Manipulation",
+    "permalink": "/humanoid_robotic/docs/humanoid-systems"
+  }
+}

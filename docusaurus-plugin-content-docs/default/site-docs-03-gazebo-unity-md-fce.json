@@ -1,0 +1,25 @@
+{
+  "id": "gazebo-unity",
+  "title": "Gazebo + Unity: Digital Twin Pipelines",
+  "description": "In the realm of Physical AI and humanoid robotics, developing and testing intelligent systems directly on hardware is often prohibitive due to cost, time constraints, and safety concerns. This is where digital twins and high-fidelity simulation environments become indispensable. A digital twin is a virtual replica of a physical system, continuously updated with data from its real-world counterpart, allowing for testing, analysis, and optimization in a safe, controlled digital space. This chapter explores how Gazebo and Unity are leveraged to create these digital twins, forming powerful simulation pipelines for humanoid robots.",
+  "source": "@site/docs/03-gazebo-unity.md",
+  "sourceDirName": ".",
+  "slug": "/gazebo-unity",
+  "permalink": "/humanoid_robotic/docs/gazebo-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/03-gazebo-unity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "ROS 2: The Robotic Nervous System",
+    "permalink": "/humanoid_robotic/docs/ros2"
+  },
+  "next": {
+    "title": "NVIDIA Isaac: The AI-Robot Brain",
+    "permalink": "/humanoid_robotic/docs/isaac"
+  }
+}

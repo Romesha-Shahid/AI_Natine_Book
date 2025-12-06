@@ -1,0 +1,25 @@
+{
+  "id": "hardware-architecture",
+  "title": "Hardware Architecture: RTX Workstations + Jetson Kits",
+  "description": "The computational demands of Physical AI, especially in humanoid robotics, require a diverse and powerful hardware ecosystem. From training complex AI models and running high-fidelity simulations to deploying real-time perception and control algorithms on the robot itself, the choice of hardware significantly impacts performance, latency, and overall system capabilities. This chapter explores the roles of NVIDIA RTX workstations and Jetson edge AI kits, outlining their architectural features and the trade-offs involved in their integration.",
+  "source": "@site/docs/08-hardware-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/hardware-architecture",
+  "permalink": "/humanoid_robotic/docs/hardware-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-username/humanoid_robotic/tree/main/docs/08-hardware-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Conversational Robotics: LLMs, Whisper, Multimodal",
+    "permalink": "/humanoid_robotic/docs/conversational-ai"
+  },
+  "next": {
+    "title": "Capstone: Autonomous Humanoid Pipeline",
+    "permalink": "/humanoid_robotic/docs/capstone"
+  }
+}

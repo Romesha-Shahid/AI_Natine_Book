@@ -1,0 +1,89 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/humanoid_robotic/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/humanoid_robotic/docs",
+          "mainDocId": "capstone",
+          "docs": [
+            {
+              "id": "capstone",
+              "path": "/humanoid_robotic/docs/capstone",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "conversational-ai",
+              "path": "/humanoid_robotic/docs/conversational-ai",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "gazebo-unity",
+              "path": "/humanoid_robotic/docs/gazebo-unity",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/humanoid_robotic/docs/glossary",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "hardware-architecture",
+              "path": "/humanoid_robotic/docs/hardware-architecture",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "humanoid-systems",
+              "path": "/humanoid_robotic/docs/humanoid-systems",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/humanoid_robotic/docs/intro",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "isaac",
+              "path": "/humanoid_robotic/docs/isaac",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "physical-ai",
+              "path": "/humanoid_robotic/docs/physical-ai",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "references",
+              "path": "/humanoid_robotic/docs/references",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "ros2",
+              "path": "/humanoid_robotic/docs/ros2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "vla",
+              "path": "/humanoid_robotic/docs/vla",
+              "sidebar": "bookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {},
+            "bookSidebar": {
+              "link": {
+                "path": "/humanoid_robotic/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
